@@ -1,0 +1,20 @@
+#solutionContainer {
+    padding-left: 20px;
+}
+
+#solutionContainer>div {
+    display: flex;
+    align-items: center;
+}
+
+#solutionContainer>div>p {
+    margin: 0;
+}
+
+.white-color {
+    color: white;
+}
+
+li {
+    list-style: none;
+}
